@@ -1,0 +1,11 @@
+# Efeitos 3D arquivados — não fazem parte do site publicado.
+# Ficam guardados na sua máquina; ver _arquivo-efeitos/LEIA-ME.txt
+_arquivo-efeitos/
+
+# Configuração local do editor
+.claude/
+
+# Lixo do sistema
+Thumbs.db
+desktop.ini
+.DS_Store

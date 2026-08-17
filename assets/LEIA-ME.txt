@@ -1,0 +1,94 @@
+ARQUIVOS DE MÍDIA — o que colocar nesta pasta
+=============================================
+
+São 15 espaços no site. Enquanto um arquivo não existir, aparece um
+retângulo escrito "FALTA O ARQUIVO". Nada quebra.
+
+NÃO precisa preencher todos de uma vez. A ordem de prioridade está
+marcada abaixo: comece pelos [1], que são os que mais pesam na decisão
+de quem chega pelo anúncio.
+
+Use os nomes EXATOS (tudo minúsculo, sem acento, sem espaço).
+Todo vídeo: SEM SOM, porque toca sozinho e mudo no site.
+
+
+[1] O QUE MAIS IMPORTA — faça estes cinco primeiro
+---------------------------------------------------
+hero-loop.mp4     Primeira tela. Deitado (16:9), 8 a 12 segundos, até 3 MB.
+hero-loop.jpg     1600 x 900, até 250 KB.
+                  Escolha o voo mais bonito do litoral: costa, mar, mata.
+
+daniel.jpg        FOTO DO DANIEL, em pé (4:5), 1000 x 1250, até 250 KB.
+                  De preferência com o drone na mão ou com os óculos de
+                  FPV. Rosto de quem atende vale muito quando ainda não
+                  há avaliação no Google — é o que faz o visitante
+                  sentir que tem gente do outro lado.
+daniel.mp4        (opcional) mesma proporção, se preferir vídeo no lugar.
+
+video-01.mp4      Três da vitrine, EM PÉ (9:16), como reels.
+video-02.mp4      6 a 10 segundos cada, até 2 MB cada.
+video-03.mp4      Capas: video-01.jpg ... 720 x 1280, até 200 KB.
+
+
+[2] FAIXAS ENTRE SEÇÕES — dão respiro e mostram trabalho
+---------------------------------------------------------
+faixa-01.mp4      Deitado e BEM largo (21:9 fica perfeito).
+faixa-01.jpg      Um voo aberto de São Sebastião.
+faixa-02.mp4      Outro voo aberto, de Ilhabela.
+faixa-02.jpg      1600 x 700, até 250 KB cada. Até 3 MB cada vídeo.
+
+
+[3] UM VÍDEO POR SERVIÇO — deitado (16:9), 6 a 10 s, até 2 MB
+--------------------------------------------------------------
+servico-imovel.mp4      um imóvel visto de cima
+servico-evento.mp4      uma festa ou casamento
+servico-producao.mp4    bastidor ou plano de produção
+servico-indoor.mp4      passando por dentro de um ambiente
+(cada um com seu .jpg de capa: 1200 x 675, até 200 KB)
+
+
+[4] COMPLETAR A VITRINE E O RESTO
+----------------------------------
+video-04.mp4 a video-06.mp4   mais três em pé (9:16)
+cta-fundo.mp4 / .jpg          fundo do formulário, deitado, discreto
+                              (fica bem escurecido — não use o melhor
+                              plano aqui, ele quase não aparece)
+og.jpg                        1200 x 630 — a imagem que aparece quando o
+                              link é colado no WhatsApp ou Instagram
+
+
+SE VOCÊ NÃO FOR PREENCHER ALGUM
+================================
+Não deixe o retângulo cinza no ar. Me avise qual e eu removo a seção ou
+o espaço — dois minutos. Publicar com "FALTA O ARQUIVO" visível passa
+uma impressão pior do que não ter aquele espaço.
+
+
+COMO DEIXAR OS ARQUIVOS LEVES (grátis, sem instalar nada)
+==========================================================
+
+Vídeo pesado é o que faz a pessoa desistir antes do site abrir —
+principalmente no 4G, que é como a maioria vai chegar pelo anúncio.
+
+VÍDEO   ->  freeconvert.com/video-compressor
+            Suba o arquivo, escolha MP4, mire em 720p.
+            Se passar do tamanho indicado, corte alguns segundos.
+
+IMAGEM  ->  squoosh.app
+            Arraste a foto, escolha MozJPEG à direita,
+            puxe a qualidade para uns 75. Baixe.
+
+
+DE ONDE TIRAR OS ARQUIVOS
+=========================
+
+Peça os ORIGINAIS ao Daniel — da galeria do celular dele ou do app onde
+editou. No WhatsApp, ele deve mandar como DOCUMENTO (clipe de papel ->
+Documento), nunca como vídeo: mandado como vídeo, o WhatsApp comprime e
+a qualidade cai.
+
+Baixar do Instagram é o último recurso: o Instagram recomprime e corta.
+
+Não use vídeo ou foto de banco de imagens aqui. Este site vende o
+trabalho DELE — imagem de outra pessoa apresentada como serviço dele é
+propaganda enganosa.
